@@ -1,4 +1,4 @@
-# Commodity Price Bot
+# Commodity Price Bot 🍂
 
 A small, self-hosted Discord bot for live commodity prices and personal price alerts. Quote spot gold, silver, and natural gas on demand, and set targets that ping you (in-channel and via DM) the moment a price is crossed.
 
@@ -7,6 +7,12 @@ Works with both **slash commands** (`/gold`) and **prefix commands** (`!gold`).
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## About
+
+Commodity Price Bot is for small Discord servers and individuals who want quick gold, silver and natural gas quotes and a ping when a price they care about is crossed. It is a single Python file using discord.py with a local SQLite file, so it runs on any machine with Python 3.10+. Status: a small working bot; real-time quotes need a free Twelve Data key, otherwise prices are about 15 minutes delayed.
 
 ---
 
