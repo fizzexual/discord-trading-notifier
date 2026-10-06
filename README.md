@@ -182,4 +182,4 @@ The free tier is 800 requests/day, 8/min. The bot falls back to Yahoo Finance au
 
 ## License
 
-MIT — see `LICENSE` if included, otherwise feel free to adopt one.
+MIT — see [LICENSE](LICENSE).
